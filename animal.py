@@ -1,5 +1,5 @@
 def default():
-    print("hello")
+    print("helloooooooooo")
 def main():
     default()
 if __name__=="__main__":
